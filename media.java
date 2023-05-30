@@ -39,6 +39,6 @@ public class media {
                     Arrays.toString(ordenados));
             System.out.println("la mediana es: "+mediana);
             System.out.println("la media es; "+media);
-        }
+        }//Bryan Yaziel Figueroa Castillo
  }
 }
